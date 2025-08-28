@@ -1,0 +1,79 @@
+.container-general{
+    width: 100%;
+    height: 809px;
+    background-color: khaki;
+    display: flex;
+    flex-direction: row;
+}
+.container-derecha{
+    display: flex;
+    flex-direction: column;
+}
+.container-izquierda{
+    display: flex;
+    flex-direction: column;
+}
+.container-abajo{
+    display: flex;
+    flex-direction: row;
+}
+.container-hijoA{
+    height: 150px;
+    width: 1145px;
+    background-color: rgb(255, 206, 214);
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-hijoD{
+    height: 490px;
+    width: 330px;
+    background-color: rgb(255, 206, 214);
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 15px;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-hijoB{
+    height: 625px;
+    width: 450px;
+    background-color: rgb(255, 206, 214);
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-hijoE{
+    height: 285px;
+    width: 330px;
+    background-color: rgb(255, 206, 214);
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 15px;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-hijoC{
+    height: 625px;
+    width: 679px;
+    background-color: rgb(255, 206, 214);
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 13px;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

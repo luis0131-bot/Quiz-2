@@ -19,11 +19,11 @@
 }
 .container-hijoA{
     height: 150px;
-    width: 1145px;
+    width: 1150px;
     background-color: rgb(255, 206, 214);
     border-radius: 10px;
     margin-top: 10px;
-    margin-left: 10px;
+    margin-left: 5px;
     border-style: solid;
     display: flex;
     justify-content: center;
